@@ -22,8 +22,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "lint-all": "eslint . --fix",
-    "deploy": "yarn run build",
-    "pre-commit": "yarn run lint-all"
+    "deploy": "yarn run build"
   },
   "eslintConfig": {
     "extends": [
